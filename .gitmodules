@@ -1,0 +1,3 @@
+[submodule "SecondRepo"]
+	path = SecondRepo
+	url = git@github.com:rahuldeshmukh/SecondRepo.git
